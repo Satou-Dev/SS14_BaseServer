@@ -1,1 +1,7 @@
 
+/bin/Content.Benchmarks
+/bin/Content.IntegrationTests
+/bin/Content.MapRenderer
+/bin/Content.Replay
+/bin/Content.Tests
+/bin/Content.YAMLLinter
