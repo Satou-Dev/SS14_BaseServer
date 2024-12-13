@@ -1,5 +1,5 @@
 ﻿# Определяем путь к приложению и имя процесса
-$AppPath = "$(Get-Location)\Content.Server.exe"
+$AppPath = "$(Get-Location)\bin\Content.Server\Content.Server.exe"
 $ProcessName = "Content.Server"
 $ResourcesFolder = "$(Get-Location)\Resources"
 $ParentFolder = "$(Get-Location)\..\Resources"
