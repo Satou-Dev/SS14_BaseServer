@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iJWYb3aO7w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilpdrake\\Desktop\\SS14_BaseServer\\Content.PatreonParser\\Content.PatreonParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilpdrake\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

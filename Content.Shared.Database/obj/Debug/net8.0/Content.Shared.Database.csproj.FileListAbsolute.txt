@@ -1,0 +1,12 @@
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.deps.json
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\bin\Debug\net8.0\Content.Shared.Database.pdb
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.AssemblyInfoInputs.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.AssemblyInfo.cs
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.csproj.CoreCompileInputs.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.sourcelink.json
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\refint\Content.Shared.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\Content.Shared.Database.pdb
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Shared.Database\obj\Debug\net8.0\ref\Content.Shared.Database.dll

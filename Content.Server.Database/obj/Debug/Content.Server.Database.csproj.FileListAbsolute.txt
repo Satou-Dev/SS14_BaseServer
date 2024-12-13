@@ -1,0 +1,16 @@
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\bin\Content.Server.Database\Content.Server.Database.deps.json
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\bin\Content.Server.Database\Content.Server.Database.runtimeconfig.json
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\bin\Content.Server.Database\Content.Server.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\bin\Content.Server.Database\Content.Server.Database.pdb
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.AssemblyReference.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfoInputs.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.AssemblyInfo.cs
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.csproj.CoreCompileInputs.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.sourcelink.json
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content..3E398902.Up2Date
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\refint\Content.Server.Database.dll
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.pdb
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\Content.Server.Database.genruntimeconfig.cache
+C:\Users\Wilpdrake\Desktop\SS14_BaseServer\Content.Server.Database\obj\Debug\ref\Content.Server.Database.dll
