@@ -21,11 +21,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f95387f2-cf52-4b10-bc69-3a1389b49d45" name="Changes" comment="" />
+    <list default="true" id="f95387f2-cf52-4b10-bc69-3a1389b49d45" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpaceStation14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpaceStation14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Benchmarks/obj/Debug/Content.Benchmarks.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Client/obj/Debug/Content.Client.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.IntegrationTests/obj/Debug/Content.IntegrationTests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.MapRenderer/obj/Debug/Content.MapRenderer.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Packaging/obj/Debug/net8.0/Content.Packaging.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Packaging/obj/Debug/net8.0/Content.Packaging.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Packaging/obj/Debug/net8.0/Content.Packaging.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Packaging/obj/Debug/net8.0/Content.Packaging.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.PatreonParser/obj/Debug/net8.0/Content.PatreonParser.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.PatreonParser/obj/Debug/net8.0/Content.PatreonParser.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.PatreonParser/obj/Debug/net8.0/Content.PatreonParser.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.PatreonParser/obj/Debug/net8.0/Content.PatreonParser.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Replay/obj/Debug/Content.Replay.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server.Database/obj/Debug/Content.Server.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server.Database/obj/Debug/Content.Server.Database.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server.Database/obj/Debug/Content.Server.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server.Database/obj/Debug/Content.Server.Database.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server/obj/Debug/Content.Server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server/obj/Debug/Content.Server.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Server/obj/Debug/Content.Server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Server/obj/Debug/Content.Server.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared.Database/obj/Debug/net8.0/Content.Shared.Database.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared.Database/obj/Debug/net8.0/Content.Shared.Database.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared.Database/obj/Debug/net8.0/Content.Shared.Database.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared.Database/obj/Debug/net8.0/Content.Shared.Database.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared/obj/Debug/Content.Shared.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared/obj/Debug/Content.Shared.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Shared/obj/Debug/Content.Shared.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Shared/obj/Debug/Content.Shared.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tests/obj/Debug/Content.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tools/obj/Debug/net8.0/Content.Tools.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tools/obj/Debug/net8.0/Content.Tools.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.Tools/obj/Debug/net8.0/Content.Tools.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.Tools/obj/Debug/net8.0/Content.Tools.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Content.YAMLLinter/obj/Debug/Content.YAMLLinter.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pow3r/obj/Debug/net8.0/Pow3r.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +86,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Project.Content.Client.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -332,6 +376,8 @@
       <option name="presentableId" value="Default" />
       <updated>1734092593172</updated>
       <workItem from="1734092595467" duration="1574000" />
+      <workItem from="1734095661522" duration="3065000" />
+      <workItem from="1734100570153" duration="666000" />
     </task>
     <servers />
   </component>
